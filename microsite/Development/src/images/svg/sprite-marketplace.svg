@@ -1,16 +1,1 @@
-<svg width="0" height="0" class="hidden">
-  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 170 170" id="icon-magnifyingglass">
-    <rect x="30.55" y="30.06" rx="10" fill="#fff"></rect>
-    <path d="M77.33 92.39a15.55 15.55 0 1 1 15.55-15.55 15.53 15.53 0 0 1-15.51 15.55zm20.73 0h-2.73l-1-.93A22.45 22.45 0 1 0 92 93.88l.93 1v2.73l17.28 17.24 5.15-5.15z" fill="#fdaf2a"></path>
-  </symbol>
-  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 170 170" id="icon-plus">
-    <rect x="30.55" y="30.06" rx="10" fill="#ffffff"></rect>
-    <circle cx="85.5" cy="85.02" r="22.84" fill="#46b96d"></circle>
-    <path d="M95.97 82.28H88v-7.96h-5v7.96h-7.96v5H83v7.97h5v-7.97h7.97v-5z" fill="#ffffff"></path>
-  </symbol>
-  <symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 170 170" id="icon-slider">
-    <rect x="30.55" y="30.06" rx="10" fill="#fff"></rect>
-    <path d="M115.32 88.06H54.77a3.5 3.5 0 0 1 0-7h60.55a3.5 3.5 0 0 1 0 7z" fill="#ced1d7"></path>
-    <path d="M89.1 76.3a8.26 8.26 0 0 0-7.47 4.76H54.77a3.5 3.5 0 0 0 0 7h26.86A8.26 8.26 0 1 0 89.1 76.3z" fill="#4746d4"></path>
-  </symbol>
-</svg>
+<svg width="0" height="0" class="hidden"><symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="icon-magnifyingglass" viewBox="0 0 170 170"><rect x="30.55" y="30.06" fill="#fff" rx="10"/><path fill="#fdaf2a" d="M77.33 92.39a15.55 15.55 0 1 1 15.55-15.55 15.53 15.53 0 0 1-15.51 15.55zm20.73 0h-2.73l-1-.93A22.45 22.45 0 1 0 92 93.88l.93 1v2.73l17.28 17.24 5.15-5.15z"/></symbol><symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="icon-plus" viewBox="0 0 170 170"><rect x="30.55" y="30.06" fill="#fff" rx="10"/><circle cx="85.5" cy="85.02" r="22.84" fill="#46b96d"/><path fill="#fff" d="M95.97 82.28H88v-7.96h-5v7.96h-7.96v5H83v7.97h5v-7.97h7.97v-5z"/></symbol><symbol xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="icon-slider" viewBox="0 0 170 170"><rect x="30.55" y="30.06" fill="#fff" rx="10"/><path fill="#ced1d7" d="M115.32 88.06H54.77a3.5 3.5 0 0 1 0-7h60.55a3.5 3.5 0 0 1 0 7z"/><path fill="#4746d4" d="M89.1 76.3a8.26 8.26 0 0 0-7.47 4.76H54.77a3.5 3.5 0 0 0 0 7h26.86A8.26 8.26 0 1 0 89.1 76.3z"/></symbol></svg>
